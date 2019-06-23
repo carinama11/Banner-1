@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+}
+
+.block {
+  background: blue;
+  color: white;
+  display: block;
+  font-weight: bold;
+}
+
+.inline {
+  background: green;
+  color: white;
+  display: inline;
+}
+
+img {
+  width: 200px;
+}
